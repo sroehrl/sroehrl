@@ -1,9 +1,9 @@
 <!--![logo](https://github.com/sroehrl/sroehrl/raw/master/neoan3.webp) -->
 
-Welcome to sroehrl,
+# Welcome to sroehrl,
 
 creator ( [neoan3](https://neoan3.rocks), [blua.blue](https://blua.blue), ...),
-author ( [dev.to](https://dev.to/sroehrl) )
+author ( [dev.to](https://dev.to/sroehrl/) ),
 teacher ( [see feedback](https://www.wyzant.com/Tutors/learn-more) ),
 developer ( [neoan.us](https://neoan.us) ),
 streamer ( [twitch](https://twitch.tv/neoan3) ),
