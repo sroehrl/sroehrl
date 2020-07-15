@@ -1,4 +1,4 @@
-### ![logo](neoan3.webp)
+![logo](neoan3.webp)
 
 Welcome to sroehrl,
 
@@ -14,6 +14,10 @@ Embracing open-source, accessible knowledge and helping each other out!
 **need quick help with one of my repos?**
 
 Best way to get in touch is joining my discord @ [discord.gg/vjRgWUG](https://discord.gg/vjRgWUG)
+
+### 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=DZDLC69TAW9WL)
 
 <!--
 **sroehrl/sroehrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
