@@ -17,7 +17,7 @@ Best way to get in touch is joining my discord @ [discord.gg/vjRgWUG](https://di
 
 ### 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=DZDLC69TAW9WL)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DZDLC69TAW9WL&item_name=Help+me+fund+my+open-source+projects&currency_code=USD&source=url)
 
 <!--
 **sroehrl/sroehrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
