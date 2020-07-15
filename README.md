@@ -1,4 +1,4 @@
-![logo](neoan3.webp)
+![logo](https://github.com/sroehrl/sroehrl/raw/master/neoan3.webp)
 
 Welcome to sroehrl,
 
